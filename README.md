@@ -3,4 +3,4 @@ A python script that provides UI to remove unnecessary python modules with just 
 
 ## How to use?
 
-(*)in same directory run "python pylib_remover.py" 
+In same directory run " python pylib_remover.py " 
